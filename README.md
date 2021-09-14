@@ -1,2 +1,2 @@
 # WebCalc
-A Beginner level project using HTML CSS and JAVASCRIPT
+A Beginner level project using HTML,CSS and JAVASCRIPT
